@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5IH2XX+PzPoHgDeSKIN5E3pRWBWPAlVvmewbuzJVLTVM4w1SHoIx61OKeCKse9Bz+pwTRi3gSO8gTdwpTtHKTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DEVA\\source\\repos\\Weather\\Weather\\Weather.iOS\\Weather.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DEVA\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

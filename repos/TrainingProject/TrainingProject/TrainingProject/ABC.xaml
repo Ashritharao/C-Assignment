@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TrainingProject.ABC" BackgroundColor="Blue">
+    <ContentPage.Content>
+        <StackLayout x:Name="mainstack">
+            <StackLayout Padding="30" Margin="0,60,0,0">
+                <Label Text="Username" TextColor="Pink"/>
+                <Entry Text="" Placeholder="Username"/>
+                <Label Text="Password" TextColor="Chocolate"/>
+                <Entry Text="" Placeholder="Password" IsPassword="True"/>
+                <Button Text="Login" BackgroundColor="DarkOrange" TextColor="DarkGreen"/>
+            </StackLayout>
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\obj\Debug\netstandard2.0\Ashritha.csprojAssemblyReference.cache
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\obj\Debug\netstandard2.0\Ashritha.AssemblyInfoInputs.cache
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\obj\Debug\netstandard2.0\Ashritha.AssemblyInfo.cs
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\obj\Debug\netstandard2.0\Ashritha.csproj.CoreCompileInputs.cache
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\bin\Debug\netstandard2.0\Ashritha.deps.json
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\bin\Debug\netstandard2.0\Ashritha.dll
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\bin\Debug\netstandard2.0\ref\Ashritha.dll
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\bin\Debug\netstandard2.0\Ashritha.pdb
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\obj\Debug\netstandard2.0\Ashritha.dll
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\obj\Debug\netstandard2.0\ref\Ashritha.dll
+C:\Users\DEVA\source\repos\Ashritha\Ashritha\Ashritha\obj\Debug\netstandard2.0\Ashritha.pdb

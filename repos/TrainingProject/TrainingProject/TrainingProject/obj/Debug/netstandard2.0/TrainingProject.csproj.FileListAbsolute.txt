@@ -1,0 +1,15 @@
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\bin\Debug\netstandard2.0\TrainingProject.deps.json
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\bin\Debug\netstandard2.0\TrainingProject.dll
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\bin\Debug\netstandard2.0\ref\TrainingProject.dll
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\bin\Debug\netstandard2.0\TrainingProject.pdb
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\obj\Debug\netstandard2.0\TrainingProject.csprojAssemblyReference.cache
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\obj\Debug\netstandard2.0\ABC.xaml.g.cs
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\obj\Debug\netstandard2.0\TrainingProject.AssemblyInfoInputs.cache
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\obj\Debug\netstandard2.0\TrainingProject.AssemblyInfo.cs
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\obj\Debug\netstandard2.0\TrainingProject.csproj.CoreCompileInputs.cache
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\obj\Debug\netstandard2.0\TrainingProject.dll
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\obj\Debug\netstandard2.0\ref\TrainingProject.dll
+C:\Users\DEVA\source\repos\TrainingProject\TrainingProject\TrainingProject\obj\Debug\netstandard2.0\TrainingProject.pdb
